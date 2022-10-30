@@ -1,4 +1,4 @@
-# LGMVIP-Web-Task2-
+# LGMVIP-Web-Task2
 
 ## Task 2
 
